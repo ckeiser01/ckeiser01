@@ -7,10 +7,10 @@
 ### Site Settings ###
 title               : Colton Keiser
 description         : >-
-                      Welcome to my portfolio! (Made in Jekyll & Ruby)
+                      Protiviti Portfolio
 baseurl             : ""   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
 #                                             otherwise will be hosted at <your-username>.github.io/{{base_url}}
-repository          : ckeiser2                    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects) -- for example, I would put "jnaiman" without the quotes after the ":" here
+repository          : ckeiser1                    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects) -- for example, I would put "jnaiman" without the quotes after the ":" here
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
@@ -40,7 +40,7 @@ author:
 # dribbble          : your_username
   email             : colton.dev02@gmail.com
 #  facebook          : your_username
-  github            : ckeiser2 # JPN
+  github            : ckeiser1 # JPN
   linkedin          : colton-keiser/
 # youtube           : your_channel_name
 # keybase           : your_username
