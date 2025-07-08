@@ -10,10 +10,10 @@ description: Summarizes Portfolio
 
 *Games*
 ```markdown
-A variety of games to showcase my ability to adapt to different programming languages and engines for developing. Also to take into account other technical skills like design, UI and thinking of end user when developing a product. 
+Explain Projects here
 ```
 
 *Python Datasets*
 ```markdown
-The datasets along with visualizations showcase my ability to mix my technical ability with in real world applications. Such as being able to make visualizations and make an analysis from it.
+Explain Projects here
 ```
