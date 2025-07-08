@@ -10,7 +10,7 @@ description         : >-
                       Protiviti Portfolio
 baseurl             : ""   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
 #                                             otherwise will be hosted at <your-username>.github.io/{{base_url}}
-repository          : ckeiser1                    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects) -- for example, I would put "jnaiman" without the quotes after the ":" here
+repository          : ckeiser01                    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects) -- for example, I would put "jnaiman" without the quotes after the ":" here
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
@@ -40,7 +40,7 @@ author:
 # dribbble          : your_username
 #  email             : your email
 #  facebook          : your_username
-  github            : ckeiser1 # JPN
+  github            : ckeiser01 # JPN
 # linkedin          : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
