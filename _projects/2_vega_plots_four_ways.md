@@ -1,7 +1,7 @@
 ---
 name: Vega-lite Plots, 4 ways
 tools: [Python, HTML, vega-lite]
-image: assets/pngs/fromvegaeditor.png
+image: 
 description: Explore several ways to get plots from vega-lite and Python into your Jekyll Projects
 custom_js:
   - vega.min
