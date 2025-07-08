@@ -34,14 +34,14 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : Colton Keiser
-  image             : assets\pngs\PRO.jpg
+  name              : Insert Name
+  image             : assets\pngs\pro_pfp.jpg
 #  behance           : your_username
 # dribbble          : your_username
-  email             : colton.dev02@gmail.com
+#  email             : your email
 #  facebook          : your_username
   github            : ckeiser1 # JPN
-  linkedin          : colton-keiser/
+# linkedin          : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
 
